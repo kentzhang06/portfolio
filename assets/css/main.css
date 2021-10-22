@@ -3379,6 +3379,9 @@ input, select, textarea {
 
 	#banner {
 		padding: 10em 0 4.75em 0 ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 	}
 
 		#banner .inner {
