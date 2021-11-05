@@ -4167,3 +4167,8 @@ input, select, textarea {
     flex-direction: column;
     align-items: center;
   }
+
+.flex-row {
+  display: flex;
+  justify-content: space-evenly;
+}
